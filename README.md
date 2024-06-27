@@ -1,6 +1,5 @@
 # E-Learning Platform - CuLMS
 
-![E-Learning Platform - CuLMS](https://github.com/Coder-aadarsh/E-learning-Platform-CuLMS/assets/92307537/76d60fb0-29c1-43b3-b012-51642b5e162e)
 
 ## Introduction
 
