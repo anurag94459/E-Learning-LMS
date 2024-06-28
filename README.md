@@ -65,10 +65,11 @@ To run this project, follow these steps:
 ## Team Members
 
 This project was created by the following team members:
+- Anurag Kumar Jha
 - Aadarsh Nagrath
 - Akshat Choudhary
 - Priyanshu Srivastava
-- Anurag Kumar Jha
+
 
 For any inquiries or issues, please contact the team members mentioned above.
 
